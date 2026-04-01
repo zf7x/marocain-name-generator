@@ -43,11 +43,8 @@ marocain_names.list
 Example:
 
 ```
-ziyad2000
-Ziyad2000
-ziyad_2000
-ziyad-2000
-ziyad@2000
+<img width="1920" height="931" alt="image" src="https://github.com/user-attachments/assets/dad41df4-2430-4b1e-8e7b-be98f2c87534" />
+
 ```
 
 ---
